@@ -1,3 +1,10 @@
+# Changes planned:
+Original version of the paper only does single image ftting. Intent is to modify top level code
+to accept an array of image input, and optiize the same model on all of tehm, i.e to combine multi view inputs and return a single final face shape. Theoretically should lead to significant improvements
+
+
+
+
 # 3DMM_edges
 This is a Matlab implementation of an algorithm for fully automatically fitting a 3D Morphable Model to a single image using landmarks and edge features.
 
